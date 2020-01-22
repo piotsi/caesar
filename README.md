@@ -1,2 +1,1 @@
-# caesar
-Advanced Caesar cipher decipher.
+# Caesar cipher decryptor/encryptor
